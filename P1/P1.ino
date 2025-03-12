@@ -1,6 +1,6 @@
 #include <stdint.h>
 
-//definer pines
+//definer pine
 
 uint8_t red_led = 19; //led rojo
 uint8_t green_led = 4; //led verde
